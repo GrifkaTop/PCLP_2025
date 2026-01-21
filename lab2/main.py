@@ -8,7 +8,7 @@ from sqlalchemy import select
 from models import async_db_setup, async_session, User, Course, Mark
 from kb import main_kb
 
-TOKEN = '1560768289:AAHpEGqBi4Bmk_Iijk1GgDDTk3MwctYljsE'
+TOKEN = 'TOKEN'
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
@@ -70,3 +70,4 @@ if __name__ == '__main__':
         asyncio.run(main())
     except KeyboardInterrupt:
         print("Бот выключен")
+
