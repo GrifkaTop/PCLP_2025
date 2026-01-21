@@ -1,0 +1,27 @@
+{
+  "books": [
+    { "id": 1, "name": "Алгоритмы" },
+    { "id": 2, "name": "Архитектура ЭВМ" },
+    { "id": 3, "name": "Анализ данных" },
+    { "id": 11, "name": "Атлас систем (доп)" },
+    { "id": 22, "name": "Базы данных" },
+    { "id": 33, "name": "Веб-разработка" }
+  ],
+  "chapters": [
+    { "id": 1, "title": "Введение", "pages": 15, "book_id": 1 },
+    { "id": 2, "title": "Сортировка", "pages": 45, "book_id": 1 },
+    { "id": 3, "title": "Процессоры", "pages": 60, "book_id": 2 },
+    { "id": 4, "title": "Память", "pages": 35, "book_id": 2 },
+    { "id": 5, "title": "Регрессия", "pages": 50, "book_id": 3 }
+  ],
+  "chapters_books": [
+    { "book_id": 1, "chapter_id": 1 },
+    { "book_id": 1, "chapter_id": 2 },
+    { "book_id": 2, "chapter_id": 3 },
+    { "book_id": 2, "chapter_id": 4 },
+    { "book_id": 3, "chapter_id": 5 },
+    { "book_id": 11, "chapter_id": 1 },
+    { "book_id": 22, "chapter_id": 2 },
+    { "book_id": 33, "chapter_id": 5 }
+  ]
+}
