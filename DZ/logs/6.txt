@@ -1,0 +1,5 @@
+Docker build started...
+Step 1/5: FROM golang:1.21
+Step 2/5: COPY . .
+Step 3/5: RUN go build
+ERROR: standard_init_linux.go:228: exec user process caused "no such file or directory"

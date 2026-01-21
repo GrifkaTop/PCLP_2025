@@ -1,0 +1,1 @@
+Lorem ipsum dolor sit amet, ERROR consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. В этой строке тоже может быть спрятана ошибка ERROR для проверки алгоритма поиска внутри длинных предложений.

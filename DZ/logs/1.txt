@@ -1,0 +1,4 @@
+[10:00:01] INFO: System bootstrap started.
+[10:00:05] INFO: Loading configuration modules...
+[10:00:10] ERROR: Failed to load driver 'nvidia-440'.
+[10:00:12] WARN: Falling back to generic video driver.

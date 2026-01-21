@@ -1,0 +1,4 @@
+Critical failure.
+ERROR: Sector 0 is corrupted on disk /dev/sdb.
+ERROR: Re-allocation failed.
+ERROR: System shutdown initiated to prevent data loss.

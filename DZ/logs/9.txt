@@ -1,0 +1,4 @@
+Handshake protocol initialized.
+Certificate verified.
+ERROR: Handshake_failure (code 40) at 127.0.0.1.
+Connection closed by remote host.

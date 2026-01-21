@@ -1,0 +1,4 @@
+To-do list:
+1. Fix the bug in auth.go
+2. Check why ERROR constant is not defined in the header file.
+3. Prepare for the meeting at 15:00.

@@ -1,0 +1,5 @@
+# Application config
+port=8080
+max_connections=100
+timeout=30s
+# log_level=ERROR

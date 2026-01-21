@@ -1,0 +1,3 @@
+query: SELECT * FROM users; -- Success
+query: UPDATE profiles SET age=25 WHERE id=1; -- Success
+query: DROP TABLE production; -- ERROR: Permission denied for user 'guest'

@@ -1,0 +1,3 @@
+This file contains only general information about the project.
+Everything is running smoothly. No issues detected.
+All systems are nominal.

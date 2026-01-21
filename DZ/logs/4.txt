@@ -1,0 +1,4 @@
+192.168.1.1 GET /index.html 200
+192.168.1.5 GET /favicon.ico 404
+192.168.1.10 POST /login 500 -- ERROR: Internal Server Error (Database unreachable)
+192.168.1.1 GET /assets/style.css 200
